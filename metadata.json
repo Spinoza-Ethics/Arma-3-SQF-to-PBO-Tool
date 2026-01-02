@@ -1,0 +1,5 @@
+{
+  "name": "Arma 3 Mod Architect",
+  "description": "Convert SQF scripts into structured, publish-ready Arma 3 mod packages with generated config.cpp files.",
+  "requestFramePermissions": []
+}
